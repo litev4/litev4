@@ -1,5 +1,6 @@
-GitHub让我改readme所以我改了
+litev4 20:34:13
+-> GitHub让我改readme所以我改了
 
-btw,我不会整Github Pages所以我的域名虽然租了但是没有用
+a.k.a MWT 20:35:23
+-> BUT WHO ASKED
 
-😭😭😭
