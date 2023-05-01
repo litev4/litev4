@@ -1,8 +1,4 @@
-litev4 20:34:13
-
--> GitHub让我改readme所以我改了
-
-a.k.a MWT 20:35:23
-
--> BUT WHO ASKED
-
+Hey , I'm moneywastaken or litev4 if you like to call me with it.
+I'm a noob developer.
+I learnt C++ and Java and I'm a beginner of HTML.
+And that's it.
