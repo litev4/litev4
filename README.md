@@ -1,7 +1,8 @@
-Hey , I'm moneywastaken or litev4 if you like to call me with it.
+Hey!👋
 
-I'm a noob developer.
+I'm moneywastaken,just a random developer in the World Wide Web.
 
-I learnt C++ and Java and I'm a beginner of HTML.
+I am in fond of uploading some cool codes to Github.
+And I would love to make a contribution the open-source community if I could.
 
-And that's it. >:)
+So...That's it.
